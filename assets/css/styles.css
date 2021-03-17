@@ -1,0 +1,12 @@
+.projects-flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-flex-item {
+  border: 1px solid black;
+}
+
+.project-flex-item:first-child {
+  width: 100%;
+}
